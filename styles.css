@@ -1,0 +1,85 @@
+body {
+  font-family: sans-serif;
+}
+
+table {
+  width: 97vh;
+}
+
+table,
+th,
+td {
+  border: 2px solid red;
+  border-radius: px;
+  border-collapse: collapse;
+  padding: 15px;
+}
+
+.Table {
+  text-align: center;
+}
+
+th {
+  background-color: rgb(255, 249, 93);
+  font-size: 65px;
+  padding: 5px;
+  font-weight: lighter;
+}
+
+.Group1 {
+  background-color: rgb(221, 160, 221);
+}
+.Group2 {
+  background-color: rgb(144, 199, 255);
+}
+
+.Period4,
+.Period5,
+.Period6,
+.Period7 {
+  background-color: rgb(240, 230, 140);
+}
+
+.SemiMetals {
+  background-color: rgb(184, 134, 11);
+}
+
+.al-bi {
+  background-color: rgb(205, 235, 139);
+}
+
+.c-se {
+  background-color: rgb(255, 153, 102);
+}
+
+.Lanthanides {
+  background-color: rgb(252, 239, 240);
+}
+
+.Halogens {
+  background-color: rgb(235, 220, 169);
+}
+
+.Intert {
+  background-color: rgb(230, 230, 250);
+}
+
+.color-green {
+  color: rgb(1, 128, 7);
+}
+
+.color-red {
+  color: red;
+}
+
+.color-blue {
+  color: blue;
+}
+
+.color-purple {
+  color: rgb(170, 66, 59);
+}
+
+td {
+  padding: 8px 23.5px;
+}
